@@ -1,0 +1,104 @@
+.home
+{
+	font-family: 'Nunito', sans-serif;
+	margin-left: 70px;
+	margin-top: 50px;
+}
+.home>h1
+{
+	font-size: 80px;
+}
+.home>h2
+{
+	font-size: 40px;
+}
+.profileimg
+{
+	top:130px;
+	right: 0px;
+	position: absolute;
+	width: 57%;
+	height:350px;
+
+}
+.About
+{
+	margin-top: 50px;
+	margin-bottom:50px;
+	text-align: center;
+	padding: 50px;
+}
+#endp{
+	text-align:center;
+	background:#5F5F5F;
+	color:white;
+}
+address
+{
+	color:white;
+}
+#endp h3{
+	color:white;
+}
+#endp>span{
+	color:white;
+}
+.details
+{
+	color: white;
+}
+address a{
+	color:white;
+	text-decoration: none;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+address a:hover{
+	color:orangered;
+}
+#signup
+{	
+	width:400px;
+	height:70%;
+	display: inline-block;
+	position: absolute;
+	margin-left:100px;
+	box-shadow: 1px 1px 20px 10px #E0E0E0;
+	background:#FF64F8;
+	border-radius: 10px;
+	margin-top: 20px;
+	z-index: 1;
+}
+#Optionmenu
+{
+	margin: 20px;
+	width:90%;
+	padding: 20px;
+}
+#Phoneno
+{
+	margin:20px;
+}
+#Sign
+{
+	margin-left: 200px;
+}
+.newsign
+{
+	position: relative;
+	padding-top: 20px;
+	margin-top: 40px;
+	width:100%;
+	height:60%;
+	background: #C5FFC1;
+}
+.touch
+{
+	position: absolute;
+	top:560px;
+	right: 200px;
+}
+.touch>h1
+{
+	font-size: 50px;
+}
